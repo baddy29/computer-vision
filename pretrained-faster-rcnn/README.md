@@ -1,0 +1,1 @@
+The objective of this project is to do object detection using Faster Regional Convolutional Neural Network. Faster RCNN with backbone of ResNet-50 is used for detecting pedestrians. The model worked quite well with slight errors. It identifies a few random objects as pedestrians also. But overall, the model was extremely generalized, and it was able to detect all the pedestrians.

@@ -1,0 +1,2 @@
+This project's implementation is a basic background subtraction algorithm to identify moving objects in a video captured by a static camera. In this method, we compare the current frame of the video with a background image to find areas with movement.
+While this approach offers the most detailed information about moving objects, it can be easily affected by changes in lighting or other unexpected events happening in the scene.
