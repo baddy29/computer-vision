@@ -2,3 +2,4 @@ This project's implementation is a basic background subtraction algorithm to ide
 While this approach offers the most detailed information about moving objects, it can be easily affected by changes in lighting or other unexpected events happening in the scene.
 
 ![image](https://github.com/baddy29/computer-vision/assets/29422882/239af0b3-1284-4a27-ba73-148212d41809)
+
